@@ -1,0 +1,16 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "this is for rasa chat ui",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akjhaa007",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.0.3",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0"
+  }
+}
